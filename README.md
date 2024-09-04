@@ -2,8 +2,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="dc1.2.jpg">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arcee05&label=Profile%20views&color=0e75b6&style=flat" alt="arcee05" /> </p>
+<br>
 
 - 💬 Ask me about **Html, Css, JavaScript, C**
 
