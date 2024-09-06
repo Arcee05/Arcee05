@@ -1,4 +1,4 @@
-![logo](git_banner_3.gif)
+![logo](git_banner_3.gif) 
 <h1 align="center">Hi 👋, I'm Divya Bhushan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
