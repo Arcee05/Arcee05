@@ -1,5 +1,5 @@
 ![logo](git_banner_3.gif) 
-<h1 align="center">Hi 👋, I'm Divya Bhushan</h1>
+<h1 align="center">Hi 👋, I'm Divya Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="dc1.2.jpg">
