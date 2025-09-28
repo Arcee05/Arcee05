@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Html, Css, JavaScript, C**
 
-- 📫 How to reach me **arcee1241@gmail.com**
 
 - ⚡ Fun fact **I learn from my mistakes as well as other's mistakes**
 
